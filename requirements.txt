@@ -1,0 +1,11 @@
+# 주식 알리미 위젯 - 필요 패키지
+# 설치: pip install -r requirements.txt
+
+# NOTE: 이 프로그램은 Python 표준 라이브러리만 사용합니다.
+# tkinter: Python에 기본 포함 (별도 설치 불필요)
+# urllib: Python에 기본 포함 (별도 설치 불필요)
+# json: Python에 기본 포함 (별도 설치 불필요)
+# threading: Python에 기본 포함 (별도 설치 불필요)
+
+# .exe 빌드 시에만 필요:
+pyinstaller>=6.0
